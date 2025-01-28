@@ -1,0 +1,2 @@
+2024-12-23 16:17:22,091 ERROR:Error in addition function: unsupported operand type(s) for +: 'int' and 'str'
+2024-12-23 16:17:22,091 ERROR:Error in multiplication function: unsupported operand type(s) for *: 'int' and 'NoneType'
